@@ -1,0 +1,312 @@
+[
+{
+"u": "brunolucasribeiro",
+"net": "ig",
+"prov": "Heredia",
+"canton": "San Rafael",
+"dist": "San Rafael",
+"lat": 10.012,
+"lon": -84.098,
+"day": 13
+},
+{
+"u": "dayan_oviedo10",
+"net": "ig",
+"prov": "Heredia",
+"canton": "San Rafael",
+"dist": "San Josecito",
+"lat": 10.024,
+"lon": -84.104,
+"day": 13
+},
+{
+"u": "lindoosvaldo",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Upala",
+"dist": "Bijagua",
+"lat": 10.731,
+"lon": -85.058,
+"day": 13
+},
+{
+"u": "karii.v18",
+"net": "ig",
+"prov": "Cartago",
+"canton": "La Unión",
+"dist": "San Diego",
+"lat": 9.9,
+"lon": -83.994,
+"day": 13
+},
+{
+"u": "xxpriv_jennyferxx",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Naranjo",
+"dist": "",
+"lat": 10.099,
+"lon": -84.378,
+"day": 13
+},
+{
+"u": "joshuasb12",
+"net": "ig",
+"prov": "Limón",
+"canton": "Talamanca",
+"dist": "Cahuita",
+"lat": 9.737,
+"lon": -82.842,
+"day": 13
+},
+{
+"u": "francisco.mena64",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Orotina",
+"dist": "",
+"lat": 9.912,
+"lon": -84.525,
+"day": 13
+},
+{
+"u": "ktalinamramirez",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Palmares",
+"dist": "Buenos Aires",
+"lat": 10.052,
+"lon": -84.447,
+"day": 13
+},
+{
+"u": "garito_alv",
+"net": "ig",
+"prov": "Limón",
+"canton": "Limón",
+"dist": "Limón centro",
+"lat": 9.991,
+"lon": -83.03,
+"day": 13
+},
+{
+"u": "gerson.b11",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Poás",
+"dist": "Carrillos",
+"lat": 10.031,
+"lon": -84.272,
+"day": 13
+},
+{
+"u": "vale_vch29",
+"net": "ig",
+"prov": "San José",
+"canton": "Pérez Zeledón",
+"dist": "",
+"lat": 9.373,
+"lon": -83.703,
+"day": 13
+},
+{
+"u": "emiiaraya_1406",
+"net": "ig",
+"prov": "Cartago",
+"canton": "El Guarco",
+"dist": "Tejar",
+"lat": 9.843,
+"lon": -83.938,
+"day": 13
+},
+{
+"u": "j.o.s.a.f.a.t",
+"net": "ig",
+"prov": "San José",
+"canton": "Tibás",
+"dist": "San Juan",
+"lat": 9.957,
+"lon": -84.082,
+"day": 13
+},
+{
+"u": "karito5233",
+"net": "ig",
+"prov": "San José",
+"canton": "Pérez Zeledón",
+"dist": "",
+"lat": 9.373,
+"lon": -83.703,
+"day": 13
+},
+{
+"u": "nathaly_sancho13",
+"net": "ig",
+"prov": "Puntarenas",
+"canton": "Puntarenas",
+"dist": "Cóbano (Río Negro)",
+"lat": 9.69,
+"lon": -85.105,
+"day": 13
+},
+{
+"u": "jarquin_06n",
+"net": "ig",
+"prov": "San José",
+"canton": "San José",
+"dist": "La Uruca (La Carpio)",
+"lat": 9.955,
+"lon": -84.13,
+"day": 13
+},
+{
+"u": "rmrz_bruno",
+"net": "ig",
+"prov": "Guanacaste",
+"canton": "Cañas",
+"dist": "",
+"lat": 10.43,
+"lon": -85.093,
+"day": 13
+},
+{
+"u": "agenciaradioactivoz",
+"net": "ig",
+"prov": "San José",
+"canton": "Acosta",
+"dist": "Sabanillas",
+"lat": 9.785,
+"lon": -84.2,
+"day": 13
+},
+{
+"u": "alexey_420_0",
+"net": "ig",
+"prov": "Puntarenas",
+"canton": "Garabito",
+"dist": "Jacó",
+"lat": 9.615,
+"lon": -84.628,
+"day": 13
+},
+{
+"u": "fefafgd1404",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Orotina",
+"dist": "",
+"lat": 9.912,
+"lon": -84.525,
+"day": 13
+},
+{
+"u": "arian_valverde_",
+"net": "ig",
+"prov": "Puntarenas",
+"canton": "Golfito",
+"dist": "",
+"lat": 8.64,
+"lon": -83.182,
+"day": 13
+},
+{
+"u": "henryzunigareyes",
+"net": "ig",
+"prov": "Cartago",
+"canton": "Cartago",
+"dist": "",
+"lat": 9.864,
+"lon": -83.919,
+"day": 13
+},
+{
+"u": "epic_x_7",
+"net": "ig",
+"prov": "Alajuela",
+"canton": "Palmares",
+"dist": "Buenos Aires",
+"lat": 10.052,
+"lon": -84.447,
+"day": 13
+},
+{
+"u": "massi_mianos",
+"net": "tt",
+"prov": "Guanacaste",
+"canton": "Carrillo",
+"dist": "Sardinal",
+"lat": 10.517,
+"lon": -85.648,
+"day": 13
+},
+{
+"u": "Sebastián",
+"net": "tt",
+"prov": "Heredia",
+"canton": "Heredia",
+"dist": "Guararí",
+"lat": 9.99,
+"lon": -84.108,
+"day": 13
+},
+{
+"u": "Mathi",
+"net": "tt",
+"prov": "Heredia",
+"canton": "Barva",
+"dist": "Santa Lucía",
+"lat": 10.017,
+"lon": -84.112,
+"day": 13
+},
+{
+"u": "Math Vidaurre",
+"net": "tt",
+"prov": "Heredia",
+"canton": "San Pablo",
+"dist": "",
+"lat": 9.995,
+"lon": -84.096,
+"day": 13
+},
+{
+"u": "jayden_ky125",
+"net": "tt",
+"prov": "Cartago",
+"canton": "El Guarco",
+"dist": "Tejar",
+"lat": 9.843,
+"lon": -83.938,
+"day": 13
+},
+{
+"u": "Маленькая муха",
+"net": "tt",
+"prov": "Alajuela",
+"canton": "Zarcero",
+"dist": "Palmira",
+"lat": 10.203,
+"lon": -84.378,
+"day": 13
+},
+{
+"u": "SAE",
+"net": "tt",
+"prov": "Puntarenas",
+"canton": "Puntarenas",
+"dist": "",
+"lat": 9.976,
+"lon": -84.833,
+"day": 13
+},
+{
+"u": "Sofi",
+"net": "tt",
+"prov": "Heredia",
+"canton": "Heredia",
+"dist": "",
+"lat": 10.0,
+"lon": -84.117,
+"day": 13
+}
+]
